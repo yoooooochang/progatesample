@@ -1,1 +1,1 @@
-# progatesample
+# progate-sample
